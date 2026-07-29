@@ -2,7 +2,7 @@
  
 A lightweight, accessible, client-side BMI calculator built with semantic HTML, CSS, and Vanilla JavaScript. Developed as a portfolio project following a professional software development lifecycle — from PRD and architecture documentation to testing and deployment.
  
-**[→ Live Demo](https://viniciustony.github.io/project_bmi_calculator)** · **[→ Full Documentation](https://app.notion.com/p/Project-BMI-calculator-345d4e09e26c80379e4ed53b9bf3ede6?source=copy_link)**
+**[→ Live Demo](https://viniciustony.github.io/project_bmi_calculator)** · **[→ Full Documentation](Corrigir link público)**
 
  ---
  
